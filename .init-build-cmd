@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/petmemoryvault-35783-7c59a56b/petmemoryvault"
+}
